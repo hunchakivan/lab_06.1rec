@@ -1,0 +1,3 @@
+﻿  lab_06.1rec.cpp
+C:\Users\hunch\OneDrive\Документи\Visual Studio 2022\lab_06.1rec\lab_06.1rec.cpp(45): warning C4715: 'Change': not all control paths return a value
+  lab_06.1rec.vcxproj -> C:\Users\hunch\OneDrive\Документи\Visual Studio 2022\lab_06.1rec\x64\Debug\lab_06.1rec.exe
